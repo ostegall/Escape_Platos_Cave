@@ -2,7 +2,7 @@
 A choose-your-own-adventure retelling of Plato's 'Allegory of the Cave'
 
 ## Instructions for Downloading Git
-1. This project is hosted on Github. Before doing anything else, please download git to your computer following the instructions at [this link](https://github.com/git-guides/install-git) to be able to play this game on your computer.
+1. This project is hosted on GitHub. Before doing anything else, please download git to your computer following the instructions at [this link](https://github.com/git-guides/install-git) to be able to play this game on your computer.
 2. After you have git on your computer, follow the instructions below based on your OS.
 
 ### Running Game on Macs
