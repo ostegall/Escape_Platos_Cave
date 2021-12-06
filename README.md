@@ -11,12 +11,12 @@ A choose-your-own-adventure retelling of Plato's 'Allegory of the Cave'
 3. After getting into your terminal, you should type:
 
 ```
-$ git clone [insert URL link you copied earlier here without the brackets]
+git clone [insert URL link you copied earlier here without the brackets]
 ```
 
 This could should read as follows:
 ```
-$ git clone https://github.com/ostegall/Escape_Platos_Cave.git
+git clone https://github.com/ostegall/Escape_Platos_Cave.git
 ```
 
 4. After this, there should be a folder in your home directory called 'Escape_Platos_Cave'. To access it, open up your Finder and go to the 'Home' Folder. There should be two files. One called 'Plato' and one called 'Plato.c'. If you click on the one called Plato, the game should open up in a new window on your computer. For best viewing, make this new window fullscreen.
@@ -27,12 +27,12 @@ $ git clone https://github.com/ostegall/Escape_Platos_Cave.git
 3. After getting into your terminal, you should type:
 
 ```
-$ git clone [insert URL link you copied earlier here without the brackets]
+git clone [insert URL link you copied earlier here without the brackets]
 ```
 
 This could should read as follows:
 ```
-$ git clone https://github.com/ostegall/Escape_Platos_Cave.git
+git clone https://github.com/ostegall/Escape_Platos_Cave.git
 ```
 4. After this, the code has been downloaded to your machine. The quickest and easiest way to run it should be to use the Run command. Just press the keyboard shortcut Windows key + R at the same time and a window should pop up asking you to type the name of a program, folder...etc. Here, you can type 'Plato' and a new terminal should open up with the code. For best viewing, make this new window fullscreen. If you want to access the folder that has the code and the Word document with the Final Project write up, just type 'Escape_Platos_Cave' in the Run window.
 
